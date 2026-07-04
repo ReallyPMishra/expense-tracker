@@ -19,7 +19,6 @@ The application enables users to manage expenses, categorize transactions, gener
 * ✅ Global Exception Handling
 * ✅ Swagger/OpenAPI Documentation
 * ✅ MySQL Database Integration
-* ✅ License Key Security (Machine-Based)
 * ✅ Clean Layered Architecture
 * ✅ RESTful APIs
 
@@ -29,7 +28,7 @@ The application enables users to manage expenses, categorize transactions, gener
 
 ## Backend
 
-* Java 17
+* Java 21
 * Spring Boot 3.5.x
 * Spring MVC
 * Spring Data JPA
